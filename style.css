@@ -1,0 +1,67 @@
+body {
+    font-family: 'Permanent marker', cursive;
+}
+
+.btn {
+    float: right;
+    padding: 10px 20px 10px 20px;
+    color: gold;
+    background-color: white;
+    font-size: 25px;
+    border-style: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    transition: transform .1s;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: gold;
+    color: white;
+    transform: scale(1.2);
+}
+
+h1 {
+    margin-left: 200px;
+    margin-top: 300px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imgoutlook {
+    width: 4%;
+    height: 8vh;
+    margin-left: 520px;
+    margin-top: 5px;
+}
+
+.imgtele {
+    width: 4%;
+    height: 8vh;
+    margin-left: 600px;
+    margin-top: -50px;
+}
+
+.imgtele {
+    transition: transform .1s;
+}
+
+.imgtele:hover {
+    transform: scale(1.5);
+}
+
+.imgoutlook {
+    transition: transform .1s;
+}
+
+.imgoutlook:hover {
+    transform: scale(1.5);
+}
+
+h3 {
+    margin-left: 350px;
+}
+
+h5 {
+    margin-left: 830px;
+}
