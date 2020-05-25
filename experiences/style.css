@@ -8,8 +8,8 @@ h1 {
 .btn {
     float: right;
     padding: 10px 20px 10px 20px;
-    color: gold;
-    background-color: #1abc9c;
+    color: black;
+    background-color: #55E6C1;
     font-size: 25px;
     border-style: none;
     margin-top: 20px;
@@ -19,11 +19,11 @@ h1 {
 
 .btn:hover {
     cursor: pointer;
-    background-color: gold;
-    color: #1abc9c;
+    background-color: black;
+    color: #55E6C1;
     transform: scale(1.2);
 }
 
 body {
-    background-color: #1abc9c;
+    background-color: #55E6C1;
 }
